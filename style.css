@@ -189,7 +189,7 @@ section .card-bg{
   }
 }
 
-section .card-bg > div img{
+section .card-bg > div svg{
   animation: change .5s;
 }
 
