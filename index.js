@@ -58,8 +58,8 @@ const criarItemDeAtividade = (atividade) => {
   <div class="card-bg">
     ${input}
     <div>
-      <img class="active" src="/assets/circle-check.svg" alt="ativo">
-      <img class="inactive" src="/assets/circle-dashed.svg" alt="desativado">
+      <img class="active" src="./assets/circle-check.svg" alt="ativo">
+      <img class="inactive" src="./assets/circle-dashed.svg" alt="desativado">
 
       <span>${atividade.nome}</span>
     </div>
